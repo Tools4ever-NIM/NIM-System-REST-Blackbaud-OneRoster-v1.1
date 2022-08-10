@@ -1,5 +1,5 @@
-# NIM-System-REST-InfiniteCampus-OneRoster-v1.1
-Infinite Campus SIS - OneRoster v1.1
+# NIM-System-REST-Blackbaud-OneRoster-v1.1
+Blackbaud SIS - OneRoster v1.1
 
 # Requirements
 - IMSGlobal OneRoster v1.1 Connector (https://github.com/Tools4ever-NIM/NIM-System-REST-IMSGlobal-OneRoster)
